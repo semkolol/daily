@@ -1,6 +1,6 @@
 <p align="center">
   <picture>
-    <img src="https://replace.later" height="100" alt="Daily logo">
+    <img src="https://github.com/semkolol/daily/blob/main/assets/images/logo.png" height="100" alt="Daily logo">
   </picture>
 </p>
 
